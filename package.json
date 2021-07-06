@@ -1,0 +1,28 @@
+{
+  "name": "random-motivational-quotes",
+  "version": "2.0.0",
+  "description": "mensajes random",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Lorena Mateo <lorena.mateo.garcia@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenamateo90/random-motivational-quotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lorenamateo90/random-motivational-quotes/issues"
+  },
+  "homepage": "https://github.com/lorenamateo90/random-motivational-quotes#readme"
+}
