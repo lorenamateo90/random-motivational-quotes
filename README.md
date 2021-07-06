@@ -1,3 +1,6 @@
+# Description
+Platzi course : package management (NPM). Creation and publication of a NPM package
+
 ## Install
 
 ```npm
